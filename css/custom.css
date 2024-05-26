@@ -321,6 +321,8 @@ b {
 
 a {
 	font-family: 'AvenirNext-Medium', sans-serif;
+	font-size: 14px;
+	line-height: 16px;
 	color: #444;
 	display: inline-block;
 	text-decoration: none;
