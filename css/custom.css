@@ -161,6 +161,8 @@ h6.highlight-header {
 
 p {
 	font-family: 'AvenirNext-Regular', sans-serif;
+	font-size: 14px;
+	line-height: 16px;
 	color: #5b5e6d;
 	font-size: 1em;
 	line-height: 1.5;
