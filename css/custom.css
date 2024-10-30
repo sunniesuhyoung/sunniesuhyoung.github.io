@@ -272,6 +272,11 @@ span.role {
 	font-family: 'AvenirNext-Medium', sans-serif;
 }
 
+span.bold {
+	font-size: 11px;
+	font-family: 'AvenirNext-Medium', sans-serif;
+}
+
 p.note {
 	font-family: 'AvenirNext-Regular', sans-serif;
 	font-size: 11px;
