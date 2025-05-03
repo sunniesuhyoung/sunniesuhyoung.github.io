@@ -333,6 +333,7 @@ a {
 	color: #444;
 	display: inline-block;
 	text-decoration: none;
+	word-break: break-all;
 }
 
 a:hover,
